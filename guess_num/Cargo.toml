@@ -1,0 +1,6 @@
+[package]
+name = "guess_num"
+version = "0.1.0"
+authors = ["zengyuwen <327523057@qq.com>"]
+
+[dependencies]
